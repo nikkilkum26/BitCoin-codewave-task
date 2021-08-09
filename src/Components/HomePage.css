@@ -1,0 +1,17 @@
+.content {
+  display: flex;
+  flex: 0 0 100%;
+  margin-top: 20px;
+}
+.leftside {
+  flex: 0 0 20%;
+  background-color: white;
+}
+.maincontent {
+  flex: 0 0 60%;
+  background-color: white;
+}
+.rightside {
+  flex: 0 0 15%;
+  background-color: white;
+}

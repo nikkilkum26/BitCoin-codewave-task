@@ -1,0 +1,32 @@
+.smlCard {
+  display: flex;
+  justify-content: space-around;
+  /* width: 30px; */
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  align-self: center;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  /* flex: 0 0 30%; */
+}
+.rates {
+  width: 55px;
+  height: 25px;
+  border-radius: 5px;
+  background-color: rgb(127, 196, 127);
+  display: flex;
+  justify-content: center;
+}
+.text {
+  align-self: center;
+}

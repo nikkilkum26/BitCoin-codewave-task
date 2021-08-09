@@ -1,0 +1,24 @@
+.RightNav {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.highlight {
+  background-color: rgba(187, 187, 236, 0.288);
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.add-banner {
+  margin-top: 10px;
+  max-width: 190px;
+  height: 300px;
+  border-radius: 10px;
+}
+.selectbox {
+  background-color: rgb(69, 28, 182);
+  color: whitesmoke;
+  width: 190px;
+  height: 40px;
+  border-radius: 6px;
+}
