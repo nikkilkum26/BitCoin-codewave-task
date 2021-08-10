@@ -2,16 +2,20 @@
   display: flex;
   flex: 0 0 100%;
   margin-top: 20px;
+  flex-wrap:wrap;
 }
 .leftside {
   flex: 0 0 20%;
+  flex-wrap:wrap;
   background-color: white;
 }
 .maincontent {
   flex: 0 0 60%;
+  flex-wrap:wrap;
   background-color: white;
 }
 .rightside {
   flex: 0 0 15%;
+  flex-wrap:wrap;
   background-color: white;
 }
